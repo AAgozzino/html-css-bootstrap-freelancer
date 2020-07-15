@@ -7,6 +7,14 @@
   background-color: #25BC9C;
 }
 
+.bg_blue{
+  background-color: #2C3E50;
+}
+
+.bg_lblue{
+  background-color: #3A546D;
+}
+
 .h_600{
   height: 600px;
 }
@@ -29,4 +37,13 @@
   height: 200px;
   margin: 25px auto;
   background-color: #BA4B63;
+}
+
+/* FOOTER */
+.footer_top{
+  height: 400px;
+}
+
+.footer_bottom{
+  height: 200px;
 }
