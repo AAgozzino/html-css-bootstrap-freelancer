@@ -10,8 +10,19 @@
 .h_600{
   height: 600px;
 }
+
+
 /* HEADER */
 .header-top{
   background-color: #2C3E50;
   height: 90px;
+}
+
+/* MAIN */
+
+/* section 1 - portfolio */
+.box{
+  height: 200px;
+  margin: 25px auto;
+  background-color: #BA4B63;
 }
