@@ -1,0 +1,17 @@
+/* MIX */
+.bg_grey{
+  background-color: grey;
+}
+
+.bg_acqua{
+  background-color: #25BC9C;
+}
+
+.h_600{
+  height: 600px;
+}
+/* HEADER */
+.header-top{
+  background-color: #2C3E50;
+  height: 90px;
+}
