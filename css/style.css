@@ -11,6 +11,10 @@
   height: 600px;
 }
 
+.text_center{
+  text-align: center;
+}
+
 
 /* HEADER */
 .header-top{
